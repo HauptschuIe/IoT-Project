@@ -63,3 +63,30 @@ PostgreSQL Docker Container: https://hub.docker.com/_/postgres
 Serial Primary Key: https://www.postgresqltutorial.com/postgresql-serial/
 
 Inserting Data: https://www.postgresqltutorial.com/postgresql-insert/
+
+
+# Dockerized Node.js application
+
+## Getting Started
+
+Building your image
+
+    docker build -t <your username>/node-web-app .
+    
+Run the images
+ 
+    docker run -p 49160:5000 -d <your username>/node-web-app
+    
+
+
+## Testing
+
+    sudo apt-get install curl
+    url -i localhost:49160
+
+
+
+## Sources:
+
+Dockerizing: https://nodejs.org/de/docs/guides/nodejs-docker-webapp/
+PERN Stack: https://github.com/l0609890/pern-todo-app
