@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="hhttps://github.com/HauptschuIe/IoT-Project/blob/master/images/frontend.png" width="400" height="200">
+<img src="https://github.com/HauptschuIe/IoT-Project/blob/master/images/frontend.png" width="400" height="200">
 
 #### Deployment
 
