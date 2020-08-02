@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="https://github.com/helenanebel/bigdataproject/blob/master/images/frontend.png" width="400" height="200">
+<img src="hhttps://github.com/HauptschuIe/IoT-Project/blob/master/images/frontend.png" width="400" height="200">
 
 #### Deployment
 
@@ -11,6 +11,7 @@ Create the Dockerfile.
     touch Dockerfile
 
 Edit Dockerfile.
+
     nano Dockerfile
     
 Insert following code.
