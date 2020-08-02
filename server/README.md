@@ -1,4 +1,4 @@
-# PostgreSQL
+# 1. PostgreSQL
 
 Stores information on humidty.
 
@@ -64,8 +64,9 @@ Serial Primary Key: https://www.postgresqltutorial.com/postgresql-serial/
 
 Inserting Data: https://www.postgresqltutorial.com/postgresql-insert/
 
+<hr>
 
-# Dockerized Node.js application
+# 2. Dockerized Node.js application
 
 ## Getting Started
 
